@@ -11,10 +11,14 @@ Atualmente, estou cursando Tecnologia em Mecatrônica Industrial no SENAI Robert
 
 # Ferramentas
 
-<div>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img width="40px" src="https://img.icons8.com/color/48/000000/cnc-machine.png" alt="CNC Machine"/>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <div style="display: flex; gap: 10px;">
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  </div>
+  <div>
+    <img width="40px" src="https://img.icons8.com/color/48/000000/cnc-machine.png" alt="CNC Machine"/>
+  </div>
 </div>
 
 Sinta-se à vontade para explorar e entrar em contato!
