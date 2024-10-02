@@ -13,4 +13,7 @@ Atualmente, estou cursando Tecnologia em Mecatrônica Industrial no SENAI Robert
 
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+
 Sinta-se à vontade para explorar e entrar em contato!
