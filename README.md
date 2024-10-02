@@ -10,8 +10,7 @@ Atualmente, estou cursando Tecnologia em Mecatrônica Industrial no SENAI Robert
 - 👨🏻‍🎓 Formações: técnico em Mecatrônica, assistente administrativo e Power BI.
 
 # Ferramentas
-<code> <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 
 
