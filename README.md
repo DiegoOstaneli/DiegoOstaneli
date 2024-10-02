@@ -9,17 +9,16 @@ Atualmente, estou cursando Tecnologia em Mecatrônica Industrial no SENAI Robert
 - 👨🏻‍🔧 **Experiências:** Minha primeira e única experiência profissional até o momento é na Robert Bosch Ltda., onde atuo na área de automação industrial. Estou aprendendo e contribuindo para projetos que me desafiam e me permitem aplicar meus conhecimentos.
 - 👨🏻‍🎓 **Formações:** Técnico em Mecatrônica, Assistente Administrativo e Power BI.
 
-# Ferramentas
+# Ferramentas que sei utilizar
 
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; gap: 10px;">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img width="40px" src="https://img.icons8.com/color/48/000000/cnc-machine.png" alt="CNC Machine"/>
   </div>
-  <div>
+  <div style="display: flex; gap: 10px;">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          
   </div>
 </div>
 
