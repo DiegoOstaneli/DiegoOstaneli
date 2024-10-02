@@ -6,13 +6,11 @@ Bem-vindo ao meu perfil! Trabalho na Robert Bosch Ltda. em Campinas, Brasil, na 
 
 Atualmente, estou cursando Tecnologia em Mecatrônica Industrial no SENAI Roberto Mange, onde também concluí meu curso técnico em Mecatrônica. Tenho paixão por tecnologia e inovação, e busco constantemente aprimorar minhas habilidades.
 
-- 👨🏻‍🔧 Experiências: Minha primeira e única experiência profissional até o momento é na Robert Bosch Ltda., onde atuo na área de automação industrial. Estou aprendendo e contribuindo para projetos que me desafiam e me permitem aplicar meus conhecimentos.
-- 👨🏻‍🎓 Formações: técnico em Mecatrônica, assistente administrativo e Power BI.
+- 👨🏻‍🔧 **Experiências:** Minha primeira e única experiência profissional até o momento é na Robert Bosch Ltda., onde atuo na área de automação industrial. Estou aprendendo e contribuindo para projetos que me desafiam e me permitem aplicar meus conhecimentos.
+- 👨🏻‍🎓 **Formações:** Técnico em Mecatrônica, Assistente Administrativo e Power BI.
 
 # Ferramentas
-<code> <img widht=40px
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
 
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 Sinta-se à vontade para explorar e entrar em contato!
