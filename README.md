@@ -1,6 +1,6 @@
 # Olá, meu nome é Diego! 😃
 
-Bem-vindo ao meu perfil! Trabalho na Robert Bosch Ltda. em Campinas, Brasil <br>, na área de automação industrial. Estou começando a desenvolver novos conhecimentos e sempre em busca de desafios e aprendizados. Aqui você encontrará alguns dos meus projetos e contribuições.
+Bem-vindo ao meu perfil! Trabalho na Robert Bosch Ltda. em Campinas, Brasil 🇧🇷, na área de automação industrial. Estou começando a desenvolver novos conhecimentos e sempre em busca de desafios e aprendizados. Aqui você encontrará alguns dos meus projetos e contribuições.
 
 # Sobre Mim
 
